@@ -1,0 +1,186 @@
+.clear
+{
+    clear: both;
+}
+
+.main_conteiner
+{
+    width: 1000px;
+    margin-left: 430px;
+}
+
+.left_block
+{
+    width: 380px;
+    float: left;
+}
+
+.myimage
+{
+    width: 330px;
+    height: 350px;
+    margin-left: 50px;
+    margin-top: 100px;
+    margin-bottom: 40px;
+}
+
+.first_list{
+    list-style-type: disc;
+    font-size: 19px;
+    font-family: "Georgia", "Times New Roman", "Avenir";
+    color: #555555;
+    line-height: 1.895;
+    margin: 13px 0 40px 71px;
+    width: 309px;
+}
+
+.list_name
+{
+    font-size: 24px;
+    font-family: "Open Sans";
+    color: #15A98C;
+    margin: 0 0 0 50px; 
+    font-weight: bold;
+}
+
+.second_list
+{
+  font-size: 19px;
+  font-family: "Georgia", "Times New Roman", "Avenir";
+  color: #555555;
+  line-height: 1.895;
+  margin: 13px 0 0px 70px;
+  width: 400px;
+  
+}
+
+.right_block
+{
+    width: 500px; 
+    margin-left: 59px;
+    float: left;
+}
+
+.quote
+{
+    width: 592px;
+    background: url(quote.jpg) no-repeat;
+    margin-top: 151px;
+    float:left;  
+}
+
+.styleforquote
+{ 
+  font-size: 28px;
+  font-family: "Georgia", "Times New Roman", "Avenir";
+  color: #848484;
+  font-style: italic;
+  line-height: 1.5;
+  width: 500px;
+  margin-left: 61px;
+  margin-top: 68px;
+}
+
+.authorname
+{
+  font-size: 16px;
+  font-family: "Open-Sans", sans-serif;
+  font-weight: bold;
+  letter-spacing: 0.06em;
+  font-style: normal;
+  color: rgb(51,51,51);
+  margin-left: 65px;
+  margin-top: 15px;
+}
+
+.myname 
+{
+    font-size: 48px;
+    font-family: "Open Sans", "Times New Roman", "Avenir";
+    color: #333333;
+    font-weight: bold;
+    line-height: 0.875;   
+    width: 570px;
+    float: left;
+    margin-top: 160px;
+}
+
+.rectangle 
+{
+    background-color: rgb(69, 195, 170);
+    border-radius: 5px;
+    margin-top: 30px;
+    margin-left: 1px;
+    width: 60px;
+    height: 6px;
+}
+
+.story 
+{
+    font-size: 19px;
+    font-family: "Georgia", "Times New Roman", "Avenir";
+    color: #555555;
+    line-height: 1.7;
+    text-align: left;
+    width: 510px;
+    margin: 44px 0 0 1px;
+    float: left;
+}
+
+.myhobby
+{
+    font-size: 36px;
+    font-family: "Open Sans", "Times New Roman", "Avenir";
+    color: rgb(51, 51, 51);
+    line-height: 1.167;
+    float: left;
+    font-style: normal;
+    margin-top: 43px;
+    font-weight: 100;
+}
+
+.story_two
+{
+    font-size: 19px;
+    font-family: "Georgia", "Times New Roman", "Avenir";
+    color: #555555;
+    line-height: 1.7;
+    text-align: left;
+    width: 560px;
+    margin: 16px 0 0 1px;
+    float: left;
+}
+
+.button_write
+{
+    font-size: 19px;2
+    font-family: "Georgia";
+    color: rgb(21, 169, 139);
+    line-height: 1.8;
+    text-align: left;
+    float: left;
+    margin-top: 41px;
+    margin-bottom: 100px;
+}
+
+.underlining_button
+{
+    text-decoration: underline;
+}
+
+a
+{
+    color: #099;
+    text-decoration: none;
+}
+a:visited 
+{
+    color: #800080; 
+    text-decoration: none;
+} 
+a:hover 
+{
+    color: #800000; 
+    text-decoration: none;
+}
+
